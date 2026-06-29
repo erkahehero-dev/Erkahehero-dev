@@ -1,4 +1,4 @@
-# Salut, moi c'est [Ton Prénom] ! 👋
+# Salut, moi c'est Erudit Kahehero ! 👋
 
 Je suis **Jeune Entrepreneur**, **Développeur Full Stack** et **Ingénieur en Électronique et en Réseaux Informatiques**. À la tête de **KAH Project Corporation**, je propose des services de consultance technique et j'accompagne notamment les étudiants dans la réalisation de leurs projets de mémoire. Passionné par l'innovation, je conçois des solutions logicielles et matérielles complètes, allant des systèmes de gestion d'entreprise (ERP) complexes jusqu'aux objets connectés (IoT).
 
