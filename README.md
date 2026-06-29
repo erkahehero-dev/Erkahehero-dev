@@ -47,7 +47,8 @@ Je suis **Jeune Entrepreneur**, **Développeur Full Stack** et **Ingénieur en �
 
 ## 📫 Comment me contacter ?
 
-- **Email :** [Ton adresse email]
+- **Email :** 'erkahehero@gmail.com', 'kahprojectcorporation@gmail.com'
+- **Whatsapp :** '+243 982 568 843'
 - **GitHub :** `https://github.com/erkahehero-dev`
 
 ---
